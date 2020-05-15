@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Luke M Shepherd's Website
 description: Some descritpion
+
+github_username: lukemshepherd
+
+minima:
+  social_links:
+    twitter: lmortshepherd
+    github: lukemshepherd
