@@ -4,7 +4,7 @@ Package for aligning ankle bones by there PCAs
 
 ## [Tangental Blog](https://lukemshepherd.github.io/tangential/)
 
-My blog about miscellaneous topics: automating RPG things; some COVID analysis.
+My blog about miscellaneous topics: automating RPG things; some COVID analysis
 
 ## [Curriculum Vitae]
 
